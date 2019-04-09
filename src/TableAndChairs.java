@@ -16,7 +16,7 @@ public class TableAndChairs {
         System.out.println("R        R    !           !     R        R") ;
 
 
-        System.out.printin("update")
+        System.out.println("update")
     }
 
 
