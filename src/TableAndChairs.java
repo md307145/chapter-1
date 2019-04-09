@@ -8,7 +8,7 @@ public class TableAndChairs {
         System.out.println("A                                        A") ;
         System.out.println("I            TABLETABLETABLE             I") ;
         System.out.println("R             L           L              R") ;
-        System.out.println("CHAIRCHAIR    E           e     CHAIRCHAIR") ;
+        System.out.println("CHAIRCHAIR    E           E     CHAIRCHAIR") ;
         System.out.println("C        C    G           G     C        C") ;
         System.out.println("H        H    L           L     H        H") ;
         System.out.println("A        A    E           E     E        E") ;
