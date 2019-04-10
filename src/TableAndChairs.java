@@ -2,7 +2,7 @@ public class TableAndChairs {
     //Author:Manuel
     //Date: 04/09/2019
     //Project: Tables and Chairs
-    public class void main (String[]  args){
+    public static void main (String[]  args){
         System.out.println("C                                        C") ;
         System.out.println("H                                        H") ;
         System.out.println("A                                        A") ;
@@ -16,7 +16,7 @@ public class TableAndChairs {
         System.out.println("R        R    !           !     R        R") ;
 
 
-        System.out.println("update")
+        System.out.println("update");
     }
 
 
