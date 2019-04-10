@@ -3,7 +3,7 @@ public class TacoTruck {
     //Date: 04/09/2019
     //Project: TACOTRUCK
     public static void main(String [] args){
-
+displayTacotruck(); 
     }
 
 
