@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieQuote.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovieQuote.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MovieQuote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieQuoteInfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -37,8 +46,8 @@
       <file leaf-file-name="TableAndChairs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TableAndChairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="20" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -64,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/TacoTruck.java" />
         <option value="$PROJECT_DIR$/src/Movie.java" />
         <option value="$PROJECT_DIR$/src/MovieQuote.java" />
+        <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
       </list>
     </option>
   </component>
@@ -113,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MovieQuote">
+  <component name="RunManager" selected="Application.MovieQuoteInfo">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="java" />
@@ -121,6 +131,11 @@
     </configuration>
     <configuration name="MovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MovieQuote" />
+      <module name="java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MovieQuoteInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieQuoteInfo" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -180,9 +195,11 @@
       <item itemvalue="Application.TacoTruck" />
       <item itemvalue="Application.TableAndChairs" />
       <item itemvalue="Application.MovieQuote" />
+      <item itemvalue="Application.MovieQuoteInfo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovieQuoteInfo" />
         <item itemvalue="Application.MovieQuote" />
         <item itemvalue="Application.TacoTruck" />
         <item itemvalue="Application.TableAndChairs" />
@@ -339,15 +356,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="20" />
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MovieQuote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
         </state>
       </provider>
     </entry>
