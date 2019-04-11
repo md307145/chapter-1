@@ -15,39 +15,53 @@
       <file leaf-file-name="TacoTruck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieQuoteInfo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+      <file leaf-file-name="RandomGuess.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RandomGuess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debugging1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugging1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
+      <file leaf-file-name="Debugging2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugging2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sammysMotto.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sammysMotto.java">
+      <file leaf-file-name="Debugging3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugging3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debugginng4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugginng4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -70,12 +84,14 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/Tacotruck.java" />
         <option value="$PROJECT_DIR$/src/TableAndChairs.java" />
-        <option value="$PROJECT_DIR$/src/TacoTruck.java" />
         <option value="$PROJECT_DIR$/src/Movie.java" />
         <option value="$PROJECT_DIR$/src/MovieQuote.java" />
-        <option value="$PROJECT_DIR$/src/sammysMotto.java" />
         <option value="$PROJECT_DIR$/src/FavoriteSong.java" />
         <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
+        <option value="$PROJECT_DIR$/src/sammysMotto.java" />
+        <option value="$PROJECT_DIR$/src/SammysMotto.java" />
+        <option value="$PROJECT_DIR$/src/TacoTruck.java" />
+        <option value="$PROJECT_DIR$/src/RandomGuess.java" />
       </list>
     </option>
   </component>
@@ -89,8 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -108,6 +122,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FavoriteSong">
+  <component name="RunManager" selected="Application.RandomGuess">
     <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FavoriteSong" />
       <module name="java" />
@@ -141,8 +157,8 @@
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TableAndChairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TableAndChairs" />
+    <configuration name="RandomGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomGuess" />
       <module name="java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -194,18 +210,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.TacoTruck" />
-      <item itemvalue="Application.TableAndChairs" />
       <item itemvalue="Application.MovieQuote" />
       <item itemvalue="Application.MovieQuoteInfo" />
       <item itemvalue="Application.FavoriteSong" />
+      <item itemvalue="Application.RandomGuess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomGuess" />
+        <item itemvalue="Application.TacoTruck" />
         <item itemvalue="Application.FavoriteSong" />
         <item itemvalue="Application.MovieQuoteInfo" />
         <item itemvalue="Application.MovieQuote" />
-        <item itemvalue="Application.TacoTruck" />
-        <item itemvalue="Application.TableAndChairs" />
       </list>
     </recent_temporary>
   </component>
@@ -234,8 +250,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285151" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -244,8 +260,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -258,6 +274,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SammysMotto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -280,10 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -338,13 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Movie.java" />
     <entry file="file://$PROJECT_DIR$/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -359,21 +400,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+    <entry file="file://$PROJECT_DIR$/src/Debugging2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sammysMotto.java">
+    <entry file="file://$PROJECT_DIR$/src/Debugging3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SammysMotto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugginng4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -384,10 +442,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/Debugging1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

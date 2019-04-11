@@ -4,6 +4,7 @@ public class TacoTruck {
     //Project: TACOTRUCK
     public static void main(String [] args){
 displayTacotruck();
+        displayTacotruck();
     }
 
 
